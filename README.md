@@ -1,5 +1,5 @@
 # 💫 About Me:
-/~Hi there, I am Shoxrux~/
+`/Hi there, I am Shoxrux/`
 👋<br><br>I'm a Software Engineer.<br><br><br><< 🏢 I'm currently working at MegaBIte company. >><br><< ⚙️ My specialty :  .net, asp.net, mvc, wpf, postgresql. >><br><< 💻 My programming languages : .cs, .html, .css. >><br><< ⚔️ Technogies and tools : .net, git, docker, linux, postgre sql, sql server, sqlite >><br><< 🌱 Learning all about Open Source >><br><< ⚡️ Fun fact: I am a huge fan of FootBall >>
 
 
